@@ -1,0 +1,3 @@
+# kriegor.net
+
+Personal website
